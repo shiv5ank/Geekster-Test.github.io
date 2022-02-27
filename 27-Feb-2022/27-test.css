@@ -1,0 +1,101 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    display: inline-flex;
+}
+.container {
+    box-sizing: border-box;
+    display: inline-flex;
+    margin-right: 0%;
+    position: absolute;
+}
+.text {
+    text-align: center;
+    font-size: 15px;
+}
+.upper-container {
+    display: inline-flex;
+    height: 50px;
+    box-sizing: border-box;
+}
+.box1 {
+    background-color: red;
+    padding: 90px;
+    margin-top: 21px;
+    position: fixed;
+}
+.box2 {
+    height: 90px;
+    width: 840px;
+    margin-top: 20px;
+    margin-left: 10%;
+}
+.box2 .y-box{
+    background-color: yellow;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.box2 .g-box {
+    background-color: green;
+    padding-top: 40px;
+    padding-bottom: 42px;
+    text-align: center;
+}
+.box3 {
+    height: 50px;
+    width: 30px;
+    margin-top: 20px;
+    margin-top: 20px;
+}
+.box3 .p-box {
+    background-color: rgb(253, 0, 127);
+    padding-top: 90px;
+    padding-bottom: 90px;
+    width: 45px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.container2 {
+    
+}
+.box4 {
+    position: fixed;
+    top: 233px;
+    margin-left: 0px;
+    
+}
+.box4 .o-box {
+    float: left;
+    background-color: orange;
+    padding-top: 60px;
+    padding-bottom: 60px;
+   padding-left: 260px;
+   padding-right: 260px;
+   /* position: fixed; */
+}
+.box4 .b-box {
+    background-color: rgb(40, 189, 226);
+    margin-left: 500px;
+    padding: 60px;
+    position: fixed;
+}
+.box5 .br-box {
+    background-color: rgba(165, 125, 73, 0.788);
+    position: fixed;
+    top: 371px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 310px;
+    padding-right: 300px;
+}
+.box6 .v-box {
+    background-color: rgb(110, 3, 110);
+    position: fixed;
+    top: 233px;
+    left: 645px;
+    padding: 119px;
+
+}
